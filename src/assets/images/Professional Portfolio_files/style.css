@@ -1,0 +1,239 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+  display: flex;
+  font-size: 200%;
+  background-color: gray;
+  width: 100%;
+  margin: 0 auto;
+  height: 75px;
+  align-items: center;
+}
+
+h1 {
+  display: flex;
+  color: gray;
+  margin-left: 5%;
+  margin-right: 45%;
+  font-size: 100%;
+  background-color: lightblue;
+}
+
+ul {
+  float: right;
+  font-size: 25px;
+}
+
+ul a {
+  text-decoration: none;
+  color: lightblue;
+  text-decoration: underline;
+}
+
+li {
+  display: inline;
+}
+
+#banner {
+  display: flex;
+  color: white;
+  background-image: url("./images/space.jpeg");
+  height: 300px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+#subtitle {
+  color: black;
+  background-color: lightblue;
+  height: 50px;
+  width: 350px;
+  margin-left: 75%;
+  margin-top: 13%;
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+}
+
+header nav {
+  position: flex;
+  left: auto;
+  right: auto;
+  top: 0px;
+  height: 150px;
+  width: 1400px;
+  border-bottom: solid;
+}
+.navbar {
+  background-color: red;
+  position: flex;
+  left: auto;
+  right: auto;
+  top: 0px;
+  height: 150px;
+  width: 1400px;
+  border-bottom: solid;
+}
+
+.headshot {
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 5%;
+}
+
+.headshot img {
+  width: 250px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  border: 5px solid lightblue;
+}
+
+#about-me {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 500px;
+}
+
+.sections {
+  display: flex;
+}
+
+h2 {
+  border-right: solid 10px black;
+  margin-top: 100px;
+  margin-right: 25px;
+}
+
+#about-me h3 {
+  display: flex;
+  justify-content: flex-end;
+  border: 50px;
+}
+
+#intro {
+  display: flex;
+  margin-top: 75px;
+  margin-left: 100px;
+  margin-right: 500px;
+  border: 10px;
+  font-size: small;
+}
+
+#my-work {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#my-work h2 {
+  border-right: solid 10px black;
+}
+#contact {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-bottom: auto;
+  margin-top: auto;
+  height: 100px;
+}
+#contact h2 {
+  display: flex;
+  border-bottom: 100px;
+  margin-top: 100px;
+}
+
+#contact h3 {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#container {
+  flex: auto;
+  /* position: relative; */
+  width: 95%;
+}
+
+.run-buddy img {
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 0;
+  flex-grow: 1;
+  margin-right: 1500px;
+  margin-top: 100px;
+  margin-bottom: 400px;
+  position: relative;
+  width: 1000px;
+  height: 500px;
+}
+
+#small-images {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+}
+
+#small-images {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-top: -350px;
+  flex-wrap: wrap;
+}
+
+.robots {
+  display: flex;
+  width: 50%;
+  margin-left: 500px;
+  float: right;
+}
+
+.horiseon {
+  display: flex;
+  width: 50%;
+  margin-left: 500px;
+  float: right;
+}
+
+#small-images-bottom {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-top: -180px;
+  margin-left: 500px;
+}
+
+.git {
+  display: flex;
+  width: 50%;
+  margin-left: 500px;
+  float: right;
+}
+
+.linkedin {
+  display: flex;
+  width: 50%;
+  margin-left: 500px;
+  float: right;
+}
+
+@media screen and (max-width: 980px) {
+}
+
+#header {
+  position: relative;
+}
+
+#banner {
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 575px) {
+}
