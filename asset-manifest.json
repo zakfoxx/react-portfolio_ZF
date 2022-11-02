@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio_ZF/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio_ZF/static/js/main.c605310b.js",
+    "main.css": "/react-portfolio_ZF/static/css/main.78f00f5d.css",
+    "main.js": "/react-portfolio_ZF/static/js/main.9bdd28ec.js",
     "static/js/787.c4e7f8f9.chunk.js": "/react-portfolio_ZF/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/space.jpeg": "/react-portfolio_ZF/static/media/space.cbd362900681a108c4b3.jpeg",
+    "static/media/hero-bg.jpeg": "/react-portfolio_ZF/static/media/hero-bg.000e1b5ff4f0b912c97f.jpeg",
+    "static/media/Gifyoda-logo.png": "/react-portfolio_ZF/static/media/Gifyoda-logo.a5feb1e62ae348174d94.png",
+    "static/media/profile-photo.jpg": "/react-portfolio_ZF/static/media/profile-photo.58befdec03c533fa989f.jpg",
+    "static/media/github.png": "/react-portfolio_ZF/static/media/github.08337287482808e55cf5.png",
     "index.html": "/react-portfolio_ZF/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio_ZF/static/css/main.073c9b0a.css.map",
-    "main.c605310b.js.map": "/react-portfolio_ZF/static/js/main.c605310b.js.map",
+    "main.78f00f5d.css.map": "/react-portfolio_ZF/static/css/main.78f00f5d.css.map",
+    "main.9bdd28ec.js.map": "/react-portfolio_ZF/static/js/main.9bdd28ec.js.map",
     "787.c4e7f8f9.chunk.js.map": "/react-portfolio_ZF/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c605310b.js"
+    "static/css/main.78f00f5d.css",
+    "static/js/main.9bdd28ec.js"
   ]
 }
