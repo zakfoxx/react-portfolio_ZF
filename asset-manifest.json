@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio_ZF/static/css/main.78f00f5d.css",
-    "main.js": "/react-portfolio_ZF/static/js/main.9bdd28ec.js",
+    "main.css": "/react-portfolio_ZF/static/css/main.f021636f.css",
+    "main.js": "/react-portfolio_ZF/static/js/main.1334ab6f.js",
     "static/js/787.c4e7f8f9.chunk.js": "/react-portfolio_ZF/static/js/787.c4e7f8f9.chunk.js",
     "static/media/space.jpeg": "/react-portfolio_ZF/static/media/space.cbd362900681a108c4b3.jpeg",
+    "static/media/screenshot.png": "/react-portfolio_ZF/static/media/screenshot.3bfdaab6546f8639dcb4.png",
     "static/media/hero-bg.jpeg": "/react-portfolio_ZF/static/media/hero-bg.000e1b5ff4f0b912c97f.jpeg",
+    "static/media/robots.jpg": "/react-portfolio_ZF/static/media/robots.54eafb710a643f0b2e2c.jpg",
+    "static/media/horiseon.png": "/react-portfolio_ZF/static/media/horiseon.52d40a6bf79487ddc006.png",
     "static/media/Gifyoda-logo.png": "/react-portfolio_ZF/static/media/Gifyoda-logo.a5feb1e62ae348174d94.png",
     "static/media/profile-photo.jpg": "/react-portfolio_ZF/static/media/profile-photo.58befdec03c533fa989f.jpg",
     "static/media/github.png": "/react-portfolio_ZF/static/media/github.08337287482808e55cf5.png",
+    "static/media/linkedin.png": "/react-portfolio_ZF/static/media/linkedin.5fd5739bb2a827491b0c.png",
+    "static/media/moviegallery.png": "/react-portfolio_ZF/static/media/moviegallery.daf52a8e0f316377acd8.png",
     "index.html": "/react-portfolio_ZF/index.html",
-    "main.78f00f5d.css.map": "/react-portfolio_ZF/static/css/main.78f00f5d.css.map",
-    "main.9bdd28ec.js.map": "/react-portfolio_ZF/static/js/main.9bdd28ec.js.map",
+    "main.f021636f.css.map": "/react-portfolio_ZF/static/css/main.f021636f.css.map",
+    "main.1334ab6f.js.map": "/react-portfolio_ZF/static/js/main.1334ab6f.js.map",
     "787.c4e7f8f9.chunk.js.map": "/react-portfolio_ZF/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78f00f5d.css",
-    "static/js/main.9bdd28ec.js"
+    "static/css/main.f021636f.css",
+    "static/js/main.1334ab6f.js"
   ]
 }
